@@ -1,0 +1,147 @@
+{
+    "annotations": [
+      
+        {
+            "area": 10792.000000000004,
+            "bbox": [
+                626,
+                318,
+                179,
+                261
+            ],
+            "category_id": 1,
+            "id": 2,
+            "image_id": 1,
+            "iscrowd": 0,
+            "segmentation": [
+                [
+                    626,
+                    326,
+                    673,
+                    318,
+                    730,
+                    337,
+                    765,
+                    370,
+                    798,
+                    406,
+                    803,
+                    440,
+                    797,
+                    466,
+                    797,
+                    491,
+                    805,
+                    522,
+                    794,
+                    579,
+                    784,
+                    543,
+                    777,
+                    505,
+                    761,
+                    468,
+                    730,
+                    423,
+                    700,
+                    388,
+                    668,
+                    363,
+                    644,
+                    349,
+                    632,
+                    339
+                ]
+            ]
+        },
+        {
+            "area": 7167.999999999999,
+            "bbox": [
+                483,
+                317,
+                155,
+                202
+            ],
+            "category_id": 1,
+            "id": 3,
+            "image_id": 1,
+            "iscrowd": 0,
+            "segmentation": [
+                [
+                    560,
+                    317,
+                    592,
+                    317,
+                    619,
+                    345,
+                    631,
+                    373,
+                    638,
+                    426,
+                    638,
+                    445,
+                    623,
+                    474,
+                    605,
+                    491,
+                    579,
+                    510,
+                    565,
+                    519,
+                    558,
+                    495,
+                    537,
+                    470,
+                    510,
+                    442,
+                    489,
+                    425,
+                    483,
+                    372,
+                    483,
+                    344,
+                    511,
+                    327,
+                    540,
+                    319
+                ]
+            ]
+        }
+        
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "damage",
+            "supercategory": "part"
+        }
+    ],
+    "images": [
+        {
+            "coco_url": "",
+            "date_captured": "2020-07-14 09:59:34.190485",
+            "file_name": "1.jpg",
+            "flickr_url": "",
+            "height": 1024,
+            "id": 0,
+            "license": 1,
+            "width": 1024
+        }
+       
+    ],
+    "info": {
+        "contributor": "Lplenka",
+        "date_created": "2020-07-14 09:59:34.900420",
+        "description": "CAR Dataset",
+        "url": "https://github.com/Lplenka/",
+        "version": "0.1.0",
+        "year": 2020
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "Attribution-NonCommercial-ShareAlike License",
+            "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+        }
+    ]
+}
